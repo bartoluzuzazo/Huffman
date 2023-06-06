@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAI_8", "NAI_8\NAI_8.csproj", "{EE5CC82F-3B73-46EC-A448-034D6C10A8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5CC82F-3B73-46EC-A448-034D6C10A8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5CC82F-3B73-46EC-A448-034D6C10A8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5CC82F-3B73-46EC-A448-034D6C10A8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5CC82F-3B73-46EC-A448-034D6C10A8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
